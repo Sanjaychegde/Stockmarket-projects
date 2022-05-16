@@ -1,0 +1,2 @@
+1. Here we take in a sample portfolio of different stocks, and come to conclusion whether it is overweight or underweight on that stock.
+2. Then we calculate the overall VAR of the portifolio.
