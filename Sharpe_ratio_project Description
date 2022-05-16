@@ -1,0 +1,3 @@
+Stock universe is Nifty 500. I have dowmloaded daily stock data for all these 500 stocks and then we removed the rows of data which has missing values and then we 120 companies into consideration.
+Then we calculate the Sharpe ratio of each stock, and sort the stocks based on their sharpe ratio, we then build the portfolio of top 20 stocks with high sharpe ratio.
+Then hold it for amonth and this process continues for next 120 months. 
